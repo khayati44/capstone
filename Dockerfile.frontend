@@ -1,0 +1,35 @@
+# ---------- Frontend ----------
+FROM python:3.10.13-slim-bullseye
+
+RUN rm -rf /var/lib/apt/lists/* && \
+    apt-get clean && \
+    apt-get update && \
+    apt-get install -y --no-install-recommends curl && \
+    rm -rf /var/lib/apt/lists/*
+
+WORKDIR /app
+
+# Create user
+RUN useradd -m -u 1000 appuser
+
+# Copy frontend requirements (must exist!)
+COPY frontend/requirements.txt ./requirements.txt
+
+# Install deps
+RUN pip install --upgrade pip && \
+    pip install --no-cache-dir -r requirements.txt
+
+# Copy frontend code
+COPY frontend ./frontend
+
+# Fix permissions
+RUN chown -R appuser:appuser /app
+
+USER appuser
+
+HEALTHCHECK --interval=30s --timeout=10s --start-period=40s --retries=3 \
+    CMD curl -f http://localhost:8501/_stcore/health || exit 1
+
+EXPOSE 8501
+
+CMD ["streamlit", "run", "frontend/app.py", "--server.port=8501", "--server.address=0.0.0.0"]

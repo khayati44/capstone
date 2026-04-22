@@ -6,6 +6,13 @@
 !requirements.txt
 !README.md
 
+# Allow Docker and config files
+!Dockerfile
+!Dockerfile.frontend
+!*.bat
+!*.sh
+!*.yml
+
 # Allow important folders
 !templates/
 !templates/**
