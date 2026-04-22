@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+capstone_venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific
+uploads/
+chroma_db/
+*.db
+*.db-journal
+backend/data/faiss_index/
+*.log
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+*.tmp
+*.bak
+*.cache
+
+# Documentation (keep in repo but exclude from Docker)
+*.md
+!README.md
+!CAPSTONE_DOCUMENTATION.md
+
+# Test files
+tests/
+pytest_cache/
+.pytest_cache/
+*.pyc
+
+# Git
+.git/
+.gitignore
+
+# Docker
+docker-compose.override.yml
+.dockerignore
+
+# Scripts
+scripts/
+*.sh
+!setup.sh
+
+# Sample files (exclude large PDFs)
+sample_*.pdf
+*.pdf

@@ -1,0 +1,312 @@
+INDIAN INCOME TAX ACT 1961 — TAX DEDUCTIONS KNOWLEDGE BASE
+For AI-Powered Tax Analysis System
+FY 2024-25 / AY 2025-26
+=============================================================
+
+
+SECTION 80C — DEDUCTIONS FOR SPECIFIED INVESTMENTS AND EXPENSES
+==============================================================
+
+Section 80C of the Income Tax Act, 1961 allows deductions up to ₹1,50,000 per financial year 
+for investments and payments made towards specified instruments.
+
+Eligible investments and payments under Section 80C:
+
+1. Life Insurance Premium (LIC)
+   - Premiums paid for life insurance policies on self, spouse, or children
+   - Premium must not exceed 10% of sum assured (20% for pre-2012 policies)
+   - Applicable for: HDFC Life, LIC, ICICI Prudential, SBI Life, Max Life, Bajaj Allianz, etc.
+   - Keywords: LIC PREMIUM, LIFE INS, INSURANCE PREMIUM, LIC OF INDIA
+
+2. Public Provident Fund (PPF)
+   - Contributions to PPF account (minimum ₹500, maximum ₹1,50,000 per year)
+   - Lock-in period: 15 years
+   - Keywords: PPF, PUBLIC PROVIDENT FUND
+
+3. Employee Provident Fund (EPF)
+   - Employee's contribution to EPF (employer's contribution is exempt but not deductible)
+   - Keywords: EPF, PROVIDENT FUND, PF CONTRIBUTION
+
+4. Equity Linked Savings Scheme (ELSS) Mutual Funds
+   - Investments in ELSS mutual funds (3-year lock-in)
+   - Keywords: ELSS, SIP, AXIS LONG TERM, MIRAE ASSET TAX SAVER, ADITYA BIRLA TAX RELIEF, 
+     QUANT TAX PLAN, DSP TAX SAVER, HDFC TAXSAVER, ICICI PRUDENTIAL LONG TERM EQUITY
+
+5. National Savings Certificate (NSC)
+   - Investments in NSC at post office
+   - Keywords: NSC, NATIONAL SAVINGS CERTIFICATE
+
+6. 5-Year Fixed Deposit (Tax Saving FD)
+   - Fixed deposits with scheduled banks for minimum 5 years
+   - Keywords: TAX SAVER FD, 5 YEAR FD, FIXED DEPOSIT
+
+7. Home Loan Principal Repayment
+   - Principal component of EMI on home loan for purchase/construction
+   - Keywords: HOME LOAN EMI, HOUSING LOAN, HDFC HOME LOAN, SBI HOME LOAN, 
+     LIC HOUSING, BAJAJ HOUSING
+
+8. Children's Tuition Fees
+   - Full-time education fees for up to 2 children
+   - Fees paid to schools, colleges, universities in India only
+   - Does NOT include donation, development fees, or coaching fees
+   - Keywords: SCHOOL FEES, TUITION FEES, COLLEGE FEES, UNIVERSITY FEES, 
+     CBSE SCHOOL, ICSE SCHOOL
+
+9. Sukanya Samriddhi Yojana (SSY)
+   - Contributions for girl child account
+   - Keywords: SUKANYA SAMRIDDHI, SSY
+
+10. National Pension System (NPS) — Tier 1
+    - Employee contributions to NPS Tier-1
+    - Additional deduction of ₹50,000 available under Section 80CCD(1B) over 80C limit
+    - Keywords: NPS, NATIONAL PENSION SYSTEM, PFRDA
+
+AGGREGATE LIMIT for 80C + 80CCC + 80CCD(1): MAXIMUM ₹1,50,000
+
+
+SECTION 80CCC — PENSION FUND CONTRIBUTIONS
+==========================================
+Contributions to pension funds of LIC or any other insurer.
+Combined limit with 80C and 80CCD(1): ₹1,50,000
+
+
+SECTION 80CCD(1B) — ADDITIONAL NPS DEDUCTION
+=============================================
+Additional deduction of up to ₹50,000 for contributions to NPS Tier-1.
+This is OVER AND ABOVE the ₹1,50,000 limit of Section 80C.
+Total effective limit: ₹2,00,000 (₹1,50,000 + ₹50,000)
+
+
+SECTION 80D — HEALTH INSURANCE PREMIUMS
+========================================
+
+Section 80D allows deduction for health insurance premiums paid.
+
+Limits:
+- Self, spouse, dependent children: Up to ₹25,000 per year
+- If any member is a senior citizen (60+ years): Up to ₹50,000 per year
+- Additional for parents (non-senior): Up to ₹25,000 per year
+- Additional for senior citizen parents: Up to ₹50,000 per year
+- Maximum possible deduction: ₹1,00,000 (self senior + parents senior)
+- Preventive health check-up: Up to ₹5,000 (included in above limits)
+
+Eligible payments:
+- Health insurance premiums (Mediclaim)
+- Critical illness riders/plans
+- Payments to CGHS or approved medical schemes
+
+Insurance providers: Star Health, HDFC Ergo, Niva Bupa (Max Bupa), Care Health, 
+ICICI Lombard, New India Assurance, Oriental Insurance, United India Insurance, 
+Bajaj Allianz Health, Reliance Health
+
+Keywords: MEDICLAIM, HEALTH INSURANCE, STAR HEALTH, HDFC ERGO, MAX BUPA, NIVA BUPA,
+CARE HEALTH, ICICI LOMBARD HEALTH, NEW INDIA HEALTH, HEALTH PREMIUM, CRITICAL ILLNESS
+
+
+SECTION 80E — EDUCATION LOAN INTEREST
+======================================
+
+Section 80E provides deduction for interest paid on education loan.
+
+Key features:
+- Only INTEREST component is deductible (not principal)
+- No upper limit on deduction amount
+- Available for 8 consecutive years from the year repayment starts
+- Loan must be taken from a financial institution or approved charitable institution
+- For higher education of self, spouse, children, or student for whom taxpayer is legal guardian
+- Covers any field of study after passing Senior Secondary Exam
+
+Eligible institutions for loans: Banks (SBI, HDFC Bank, Axis Bank, ICICI Bank, 
+PNB, BOB, Canara Bank), NBFCs, Vidya Lakshmi portal loans
+
+Keywords: EDUCATION LOAN, STUDENT LOAN, STUDY LOAN, EDUCATION LOAN EMI, 
+EDU LOAN INTEREST, HDFC EDUCATION LOAN, SBI SCHOLAR LOAN, VIDYA LAKSHMI
+
+
+SECTION 80G — DONATIONS TO CHARITABLE INSTITUTIONS
+====================================================
+
+Section 80G allows deduction for donations to approved funds and institutions.
+
+Categories of deductions:
+
+1. 100% deduction WITHOUT qualifying limit:
+   - Prime Minister's National Relief Fund (PMNRF)
+   - Prime Minister's Citizen Assistance and Relief in Emergency Situations Fund (PM-CARES)
+   - National Defence Fund
+   - National Children's Fund
+   - Jawaharlal Nehru Memorial Fund
+   - Rajiv Gandhi Foundation
+
+2. 50% deduction WITHOUT qualifying limit:
+   - Prime Minister's Drought Relief Fund
+   - National Cultural Fund
+   - Technology Development and Application Fund
+   - National Illness Assistance Fund
+
+3. 100% deduction WITH qualifying limit (10% of adjusted gross total income):
+   - Donations to approved associations for rural development
+   - Approved colleges and universities
+
+4. 50% deduction WITH qualifying limit (10% of adjusted gross total income):
+   - Donations to any other approved institution
+   - Local authority, government, charitable trusts, NGOs with 80G certification
+
+Important: Cash donations above ₹2,000 are NOT eligible for deduction.
+Donations must be made by cheque, demand draft, or digital payment.
+
+Keywords: DONATION, PMNRF, PM CARES, NGO, CHARITABLE TRUST, CRY, UNICEF INDIA,
+GIVE INDIA, SMILE FOUNDATION, HELPAGE INDIA, AKSHAYA PATRA, PRATHAM, TEACH FOR INDIA
+
+
+SECTION 80GG — RENT PAID (FOR THOSE WITHOUT HRA)
+==================================================
+
+Section 80GG is for individuals who do NOT receive House Rent Allowance (HRA) 
+but pay rent for their accommodation.
+
+Conditions:
+- Taxpayer must not receive HRA from employer
+- Taxpayer, spouse, or minor child should not own a house in the city of employment
+- Must file Form 10BA declaration
+
+Deduction amount: Minimum of:
+a) ₹5,000 per month (₹60,000 per year)
+b) 25% of total adjusted income
+c) Actual rent paid minus 10% of total adjusted income
+
+Keywords: RENT PAYMENT, HOUSE RENT, FLAT RENT, APARTMENT RENT, 
+RENT PAID, RENT TRANSFER, LANDLORD RENT
+
+
+SECTION 24(B) — HOME LOAN INTEREST (INCOME FROM HOUSE PROPERTY)
+================================================================
+
+Section 24(b) allows deduction for interest paid on home loan.
+
+Limits and conditions:
+- Self-occupied property: Up to ₹2,00,000 per year
+- Let-out property: No upper limit (actual interest paid)
+- Pre-construction interest: Deductible in 5 equal installments from year of completion
+- Loan must be taken after April 1, 1999 for purchase/construction
+
+This deduction is under "Income from House Property" — not Chapter VI-A.
+Combined benefit with Section 80C (principal) and 24B (interest) covers full EMI.
+
+Lenders: HDFC Ltd, LIC Housing Finance, Bajaj Housing Finance, PNB Housing, 
+SBI Home Loan, ICICI Home Finance, Axis Bank, Bank of Baroda
+
+Keywords: HOME LOAN INTEREST, HOUSING LOAN EMI, HDFC HOME LOAN, LIC HOUSING,
+BAJAJ HOUSING, PNB HOUSING, HOME LOAN EMI, GRUH FINANCE
+
+
+SECTION 37(1) — BUSINESS/PROFESSIONAL EXPENSES
+===============================================
+
+Section 37(1) allows deduction for expenses incurred wholly and exclusively for 
+business or profession purposes.
+
+Eligible expenses:
+- Professional subscriptions and memberships
+- Business travel and conveyance
+- Professional development courses/certifications
+- Office supplies and equipment (for home office use in profession)
+- Internet and phone bills (professional use portion)
+- Professional books and journals
+
+Not eligible: Personal expenses, capital expenditure, penalties, fines
+
+Keywords: PROFESSIONAL SUBSCRIPTION, BUSINESS EXPENSE, PROFESSIONAL DEVELOPMENT,
+ONLINE COURSE, CERTIFICATION FEE, AWS CERTIFICATION, UDEMY, COURSERA (for professionals)
+
+
+SECTION 80TTA — INTEREST ON SAVINGS ACCOUNT
+============================================
+
+Section 80TTA allows deduction for interest earned on savings bank accounts.
+- Limit: ₹10,000 per year
+- For senior citizens: Section 80TTB applies with limit of ₹50,000
+
+
+SECTION 80U — DISABILITY DEDUCTION
+====================================
+
+For individuals with disabilities:
+- 40% to 79% disability: ₹75,000 fixed deduction
+- 80% or more disability (severe): ₹1,25,000 fixed deduction
+
+
+SECTION 80DD — DISABLED DEPENDENT
+====================================
+
+For expenses on medical treatment and maintenance of disabled dependent:
+- 40% to 79% disability: ₹75,000
+- 80%+ disability (severe): ₹1,25,000
+
+
+NEW TAX REGIME vs OLD TAX REGIME
+=================================
+
+From FY 2023-24, the New Tax Regime is the DEFAULT regime.
+Under NEW TAX REGIME: Most deductions (80C, 80D, 80E, 80G, HRA, LTA) are NOT available.
+Under OLD TAX REGIME: All the above deductions are available.
+
+Taxpayers must explicitly opt for the OLD regime to claim these deductions.
+Standard deduction of ₹50,000 is available under BOTH regimes for salaried employees.
+
+
+COMMON INDIAN BANK STATEMENT TRANSACTION KEYWORDS AND THEIR TAX RELEVANCE
+==========================================================================
+
+Insurance payments → 80C or 80D:
+LIC, HDFC LIFE, ICICI PRU LIFE, SBI LIFE, MAX LIFE, TATA AIA, BAJAJ ALLIANZ LIFE,
+STAR HEALTH, HDFC ERGO, NIVA BUPA, CARE HEALTH, ICICI LOMBARD
+
+Mutual Fund investments → 80C (ELSS only):
+AXIS LONG TERM EQUITY, QUANT TAX PLAN, MIRAE ASSET TAX SAVER, ADITYA BIRLA SUN LIFE TAX RELIEF,
+DSP TAX SAVER, HDFC TAXSAVER, NIPPON INDIA TAX SAVER, CANARA ROBECO EQUITY TAX SAVER
+
+Bank loan EMIs → 80C (principal, home loan) / 24B (interest) / 80E (education loan):
+HOME LOAN EMI, HOUSING LOAN, EDUCATION LOAN, STUDENT LOAN, SBI HL, HDFC HL
+
+Provident fund → 80C:
+EPF, EPFO, PF, PPF, PROVIDENT FUND, NATIONAL PENSION, NPS
+
+Tuition fees → 80C:
+SCHOOL FEES, COLLEGE FEES, TUITION, DPS, KENDRIYA VIDYALAYA, IIT FEES, UNIVERSITY FEES
+
+Donations → 80G:
+PMNRF, CRY, UNICEF, GIVE INDIA, AKSHAYA PATRA, SMILE FOUNDATION
+
+Rent → 80GG:
+RENT, HOUSE RENT, FLAT RENT, NEFT RENT, IMPS RENT
+
+
+FINANCIAL YEAR AND ASSESSMENT YEAR
+====================================
+
+Financial Year (FY) 2024-25 = April 1, 2024 to March 31, 2025
+Assessment Year (AY) 2025-26 = April 1, 2025 to March 31, 2026
+
+The deductions are claimed while filing ITR for AY 2025-26 (i.e., for income earned in FY 2024-25).
+
+
+TAX SLABS UNDER OLD REGIME (FY 2024-25)
+=========================================
+
+Income up to ₹2,50,000: Nil
+₹2,50,001 to ₹5,00,000: 5%
+₹5,00,001 to ₹10,00,000: 20%
+Above ₹10,00,000: 30%
+
+Plus: 4% Health & Education Cess on total tax
+Plus: Surcharge for income above ₹50 lakh
+
+Standard Deduction: ₹50,000 for salaried employees
+
+MAXIMUM TAX SAVING THROUGH DEDUCTIONS (OLD REGIME):
+- Section 80C: ₹1,50,000 × 30% = ₹45,000
+- Section 80D: ₹25,000 × 30% = ₹7,500
+- Section 80CCD(1B): ₹50,000 × 30% = ₹15,000
+- Section 24B: ₹2,00,000 × 30% = ₹60,000
+- Total potential tax saving: ₹1,27,500+ (at 30% slab)

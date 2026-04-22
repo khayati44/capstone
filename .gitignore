@@ -1,6 +1,3 @@
-# Ignore EVERYTHING
-*
-
 # Allow only what matters
 !*.py
 !requirements.txt
