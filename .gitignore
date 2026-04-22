@@ -2,6 +2,7 @@
 !*.py
 !requirements.txt
 !README.md
+.env
 
 # Allow Docker and config files
 !Dockerfile
