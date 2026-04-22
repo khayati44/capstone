@@ -1,0 +1,18 @@
+# Ignore EVERYTHING
+*
+
+# Allow only what matters
+!*.py
+!requirements.txt
+!README.md
+
+# Allow important folders
+!templates/
+!templates/**
+!static/
+!static/**
+!src/
+!src/**
+
+# Keep gitignore itself
+!.gitignore 

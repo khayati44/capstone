@@ -1,0 +1,63 @@
+# Core
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+python-multipart==0.0.9
+pydantic==2.7.1
+pydantic-settings==2.2.1
+
+# Auth
+python-jose[cryptography]==3.3.0
+
+argon2-cffi==23.1.0
+
+# Database
+sqlalchemy==2.0.30
+aiosqlite==0.20.0
+
+# LLM & Agents
+groq==0.9.0
+langchain>=0.2.17,<0.3.0
+langchain-community>=0.2.19,<0.3.0
+langchain-groq>=0.1.10,<0.2.0
+langchain-experimental>=0.0.65,<0.1.0
+langchain-core>=0.2.43,<0.3.0
+
+# Vector DB & RAG
+# chromadb==0.5.0   # commented out due to typer/spacy dependency conflicts
+# sentence-transformers==2.7.0   # commented out to avoid heavy install
+
+# OCR
+pdf2image==1.17.0
+pytesseract==0.3.10
+Pillow==10.3.0
+easyocr==1.7.1
+# optional heavy OCR dependency - comment out if build fails or to save space
+# easyocr==1.7.1
+PyMuPDF>=1.22.0,<2.0.0
+pdfminer.six>=20221105
+
+PyMuPDF>=1.22.0
+pdfminer.six>=20221105
+presidio-anonymizer==2.2.354
+spacy==3.7.4
+
+
+# HTTP
+httpx==0.27.0
+requests==2.31.0
+
+# Data
+pandas==2.2.2
+numpy==1.26.4
+
+# Frontend
+streamlit==1.35.0
+plotly==5.22.0
+
+# Frontend
+# Removed frontend packages
+pytest-asyncio==0.23.7
+
+# Utilities
+python-dotenv==1.0.1
+tenacity==8.3.0
